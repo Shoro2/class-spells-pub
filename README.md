@@ -17,37 +17,37 @@ This folder is the curated, discovery-friendly view of the custom spell system. 
 ## Spec catalogs
 
 ### Warrior (900100–900199)
-- [Arms](warrior-arms.md) · [Fury](warrior-fury.md) · [Protection](warrior-protection.md)
+- [Arms](specs/warrior-arms.md) · [Fury](specs/warrior-fury.md) · [Protection](specs/warrior-protection.md)
 
 ### Paladin (900200–900299)
-- [Holy](paladin-holy.md) · [Protection](paladin-protection.md) · [Retribution](paladin-retribution.md)
+- [Holy](specs/paladin-holy.md) · [Protection](specs/paladin-protection.md) · [Retribution](specs/paladin-retribution.md)
 
 ### Death Knight (900300–900399)
-- [Blood](death-knight-blood.md) · [Frost](death-knight-frost.md) · [Unholy](death-knight-unholy.md)
+- [Blood](specs/death-knight-blood.md) · [Frost](specs/death-knight-frost.md) · [Unholy](specs/death-knight-unholy.md)
 
 ### Shaman (900400–900499)
-- [Elemental](shaman-elemental.md) · [Enhancement](shaman-enhancement.md) · [Restoration](shaman-restoration.md)
+- [Elemental](specs/shaman-elemental.md) · [Enhancement](specs/shaman-enhancement.md) · [Restoration](specs/shaman-restoration.md)
 
 ### Hunter (900500–900599)
-- [Shared](hunter-shared.md) · [Beast Mastery](hunter-beast-mastery.md) · [Marksmanship](hunter-marksmanship.md) · [Survival](hunter-survival.md)
+- [Shared](specs/hunter-shared.md) · [Beast Mastery](specs/hunter-beast-mastery.md) · [Marksmanship](specs/hunter-marksmanship.md) · [Survival](specs/hunter-survival.md)
 
 ### Rogue (900600–900699)
-- [Assassination](rogue-assassination.md) · [Combat](rogue-combat.md) · [Subtlety](rogue-subtlety.md)
+- [Assassination](specs/rogue-assassination.md) · [Combat](specs/rogue-combat.md) · [Subtlety](specs/rogue-subtlety.md)
 
 ### Mage (900700–900799)
-- [Shared](mage-shared.md) · [Arcane](mage-arcane.md) · [Fire](mage-fire.md) · [Frost](mage-frost.md)
+- [Shared](specs/mage-shared.md) · [Arcane](specs/mage-arcane.md) · [Fire](specs/mage-fire.md) · [Frost](specs/mage-frost.md)
 
 ### Warlock (900800–900899)
-- [Affliction](warlock-affliction.md) · [Demonology](warlock-demonology.md) · [Destruction](warlock-destruction.md)
+- [Affliction](specs/warlock-affliction.md) · [Demonology](specs/warlock-demonology.md) · [Destruction](specs/warlock-destruction.md)
 
 ### Priest (900900–900999)
-- [Discipline](priest-discipline.md) · [Holy](priest-holy.md) · [Shadow](priest-shadow.md)
+- [Discipline](specs/priest-discipline.md) · [Holy](specs/priest-holy.md) · [Shadow](specs/priest-shadow.md)
 
 ### Druid (901000–901099)
-- [Balance](druid-balance.md) · [Feral Tank](druid-feral-tank.md) · [Feral DPS](druid-feral-dps.md) · [Restoration](druid-restoration.md)
+- [Balance](specs/druid-balance.md) · [Feral Tank](specs/druid-feral-tank.md) · [Feral DPS](specs/druid-feral-dps.md) · [Restoration](specs/druid-restoration.md)
 
 ### Global / Non-Class (901100–901199)
-- [global.md](global.md)
+- [global.md](specs/global.md)
 
 ## Conventions
 

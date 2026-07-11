@@ -4,7 +4,7 @@
 **ID-Range:** 900700
 **Status:** implemented
 
-> Mage SpellFamilyName = 3. "Channeling Evocation increases spell damage" applies to all 3 specs → shared spell. ID 900700 formally counts as part of the Arcane block (see [02-id-blocks.md](02-id-blocks.md)), but is used spec-wide.
+> Mage SpellFamilyName = 3. "Channeling Evocation increases spell damage" applies to all 3 specs → shared spell. ID 900700 formally counts as part of the Arcane block (see [02-id-blocks.md](../02-id-blocks.md)), but is used spec-wide.
 
 | # | Spell ID | Effect | Approach | Status | Details |
 |---|----------|--------|--------|--------|---------|

@@ -164,7 +164,7 @@ class spell_custom_prot_block_aoe : public AuraScript
 };
 ```
 
-**Pattern C — AuraScript with CheckProc:** see [`docs/03-spell-system.md`](03-spell-system.md#example-aurascript-with-proc) (Bloody Whirlwind example).
+**Pattern C — AuraScript with CheckProc:** see [`share-public/docs/World of Warcraft/03-spell-system.md`](https://github.com/Shoro2/share-public/blob/master/docs/World%20of%20Warcraft/03-spell-system.md#example-aurascript-with-proc) (Bloody Whirlwind example).
 
 **Pattern D — SpellScript with OnEffectHitTarget (damage override):**
 

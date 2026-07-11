@@ -62,7 +62,7 @@ Important: **DBC `EffectSpellClassMask` is ignored** — filtering runs exclusiv
 
 Every custom spell needs an entry in `spell_dbc` (DB override for `Spell.dbc`). The server loads `Spell.dbc` first at start, then layers the `spell_dbc` table over it. Tooltips in the client however access the client `Spell.dbc` directly — therefore visible spells must additionally be patched into the client DBC (`python_scripts/patch_dbc.py` in `share-public`).
 
-Mind the off-by-one BasePoints: `Spell.dbc` stores `EffectBasePoints = real_value - 1`. Detail in [`docs/03-spell-system.md`](03-spell-system.md#off-by-one-basepoints).
+Mind the off-by-one BasePoints: `Spell.dbc` stores `EffectBasePoints = real_value - 1`. Detail in [`share-public/docs/World of Warcraft/03-spell-system.md`](https://github.com/Shoro2/share-public/blob/master/docs/World%20of%20Warcraft/03-spell-system.md#off-by-one-basepoints).
 
 ## Build / install
 
@@ -91,4 +91,4 @@ All SpellScripts check `sConfigMgr->GetOption<bool>("CustomSpells.Enable", true)
 - [`02-id-blocks.md`](02-id-blocks.md) — ID scheme and allocation per spec
 - [`03-procs-and-flags.md`](03-procs-and-flags.md) — spell_proc, ProcFlags, SpellFamilyFlags
 - [`04-adding-a-spell.md`](04-adding-a-spell.md) — step-by-step for new spells
-- [`docs/03-spell-system.md`](03-spell-system.md) — SpellScript/AuraScript class hierarchy + proc pipeline
+- [`share-public/docs/World of Warcraft/03-spell-system.md`](https://github.com/Shoro2/share-public/blob/master/docs/World%20of%20Warcraft/03-spell-system.md) — SpellScript/AuraScript class hierarchy + proc pipeline
